@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/ash
 set -e
 
 # Using `-v $HOME/.ssh:/root/.ssh:ro` produce permissions error while in the container
